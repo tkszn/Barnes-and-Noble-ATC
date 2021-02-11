@@ -1,5 +1,6 @@
 # Barnes-and-Noble-ATC
 ATC links for B&amp;N Pokemon Shinning Fates
+-> Everything is simplified in order to make things easier for users. Basically all the code with no IDE. 
 
 1. Open chrome, navigate to this page -> https://www.barnesandnoble.com/checkout/
 2. Right click and open inspect element and navigate to the console tab
